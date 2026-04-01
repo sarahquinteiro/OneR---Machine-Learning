@@ -80,12 +80,17 @@ heart-one-rule/
 
 ## Base clínica
 
-Os pesos foram definidos com base nas diretrizes da **American Heart Association (AHA)** e do **American College of Cardiology (ACC)**, que apontam dor torácica típica, diabetes, tabagismo e idade avançada como os principais fatores de risco cardiovascular independentes.
+Os pesos foram definidos com base nas diretrizes e recomendações de diferentes instituições, que apontam dor torácica típica, diabetes, tabagismo e idade avançada como os principais fatores gerais de risco para doenças cardiovasculares.
 
 > Este projeto é educacional e não substitui avaliação médica profissional.
 
 ## Referências
 
+- Organização Pan-Americana da Saúde "Folha e Boletim Informativo de Doenças Cardiovasculares"
+- Ministério da Saúde, Brásilia-DF "Caderno de Atenção Básica - nº 14, 2006"
 - Holte, R. C. (1993). *Very simple classification rules perform well on most commonly used datasets*. Machine Learning, 11, 63–91.
 - American Heart Association. *2024 Heart Disease and Stroke Statistics*.
 - ACC/AHA. *2019 Guideline on the Primary Prevention of Cardiovascular Disease*.
+- Wanderley, Laio (2024) "Ainda é útil classificar a Dor torácica em Angina Típica e Atípica? (ESC 2024)"
+- UCI Machine Learning Repository
+- DOI: 10.36660/abc.20200302 "Validação de um Algoritmo de Inteligência Artificial para a Predição Diagnóstica de Doença Coronariana: Comparação com um Modelo Estatístico Tradicional"
